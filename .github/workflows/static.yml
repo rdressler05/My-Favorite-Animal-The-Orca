@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Favorite Animal: The Orca</title>
+</head>
+
+<body>
+
+    <main>
+        <h1>My Favorite Animal: The Orca</h1>
+        <p>My favorite animal is the orca. They are intelligent, social, and playful creatures.</p>
+        <img src="orca-breaching.jpg" width="300" alt="Orca breaching in icy waters">
+        <img src="killer-whale-8072814_1280.jpg" width="200" alt="Black and white image of a Killer Whale">
+        <img src="orcas-6606034_1280.jpg" width="300" alt="Orcas swimming in the ocean with just the dorsal fins showing">
+        <br>
+        <h2>Fun Facts About Orcas</h2>
+        <ol>
+            <li>Orcas are also known as killer whales.</li>
+            <li>Orcas are known for their complex social structures.</li>
+            <li>They can communicate using a variety of sounds.</li>
+            <li>Orcas are found in oceans all over the world.</li>
+            <li>They are apex predators, meaning they have no natural enemies.</li>
+            <li>Orcas are highly intelligent and can learn new behaviors.</li>
+            <li>They are known for their acrobatic displays, such as breaching and spyhopping.</li>
+            <li>Orcas have a diverse diet, including fish, squid, and marine mammals.</li>
+            <li>They are capable of swimming at speeds of up to 34 mph.</li>
+            <li>They have a unique dorsal fin shape that can help identify individuals.</li>
+        </ol>
+        <br>
+        <h3> To learn more about Orcas and how to help, click <a href="https://www.bornfree.org.uk/animals/orcas/">reference.</a></h3>
+    </main>
+    <br>
+    <footer>
+        <p>Rachel Dressler</p>
+    </footer>
+</body>
+    
+</html>
